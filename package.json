@@ -1,7 +1,7 @@
 {
   "name": "discord-private-messenger",
   "version": "1.0.0",
-  "description": "A Discord bot for sending private messages to role members",
+  "description": "A powerful Discord bot for mass DM messaging, role-based messaging, and server-wide announcements. Send private messages to all members or specific roles efficiently.",
   "main": "privmsg.js",
   "scripts": {
     "start": "node privmsg.js"
@@ -14,7 +14,22 @@
     "discord",
     "bot",
     "private-message",
-    "role-management"
+    "role-management",
+    "mass-dm",
+    "bulk-message",
+    "discord-mass-dm",
+    "dm-all",
+    "server-announcement",
+    "role-message",
+    "discord-automation",
+    "member-messaging",
+    "discord-bulk-dm",
+    "role-based-dm",
+    "server-communication",
+    "discord-message-bot",
+    "member-dm",
+    "role-dm",
+    "mass-message"
   ],
   "author": "Felipe Caldas (@felipecaldass)",
   "license": "MIT",
