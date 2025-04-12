@@ -1,0 +1,29 @@
+{
+  "name": "discord-private-messenger",
+  "version": "1.0.0",
+  "description": "A Discord bot for sending private messages to role members",
+  "main": "privmsg.js",
+  "scripts": {
+    "start": "node privmsg.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caldas14/discord-private-messenger.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "private-message",
+    "role-management"
+  ],
+  "author": "Felipe Caldas (@felipecaldass)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Caldas14/discord-private-messenger/issues"
+  },
+  "homepage": "https://github.com/Caldas14/discord-private-messenger#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
