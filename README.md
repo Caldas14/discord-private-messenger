@@ -6,6 +6,24 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
+---
+
+**🚀 The Ultimate Discord Mass DM & Role Communication Bot**
+
+Streamline your server communication with this powerful Discord bot! Send mass DMs, role-specific messages, and server-wide announcements with ease. Perfect for community managers, event organizers, and server administrators.
+
+**Key Features:**
+- 📨 Mass DM to all server members
+- 👥 Role-targeted messaging
+- 📊 Delivery tracking & reports
+- 🛡️ Permission-based access
+- ⚡ Fast & efficient delivery
+- 🔒 Secure & configurable
+
+[Getting Started](#-installation) • [Features](#-features) • [Documentation](#-usage) • [Security](#-security-considerations)
+
+---
+
 </div>
 
 ## 📜 Overview
